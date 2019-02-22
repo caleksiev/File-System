@@ -1,1 +1,1 @@
-
+Each file contained in the tree is named as its full path from the root directory to the file itself, using "-" instead of the "/" separator. For example - "/folder1/file1.txt" is "-folder1-file1.txt"
