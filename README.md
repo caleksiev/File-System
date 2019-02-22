@@ -1,6 +1,6 @@
 # File-System in Haskell
 
-File systems are designed to organize data in namespaces called files. The files are organized in a hierarchical structure by using directories. In Unix-based systems, the root of the file system is indicated by /, the same symbol being used for a directory separator.
+File systems are designed to organize data in blocks of namespaces called files. The files are organized in a hierarchical structure by using directories. In Unix-based systems, the root of the file system is indicated by "/", the same symbol being used for a directory separator.
 
 ### The project represent simulation of the file system in the Unix-based system, supporting basic command procedures such as ls, rm, cat, cd, pwd.
 
